@@ -70,14 +70,9 @@ header a:hover {
   text-decoration: none;
 }
 
-#featured 
-
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-    text-decoration: underline;
+#featured a:hover {
+  text-decoration: underline;
 }
-
 
 #press {
   margin-bottom: 20px;
